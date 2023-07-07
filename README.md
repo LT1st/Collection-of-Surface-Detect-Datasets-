@@ -14,6 +14,8 @@
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    ·
+    <a href="1417274896@qq.com">Request feature</a>
   </p>
 </p>
 
